@@ -1,4 +1,4 @@
-package com.ffyeahh.glidethumbnailplaceholdertest;
+package com.ffyeahh.pathlikeglide;
 
 import org.junit.Test;
 

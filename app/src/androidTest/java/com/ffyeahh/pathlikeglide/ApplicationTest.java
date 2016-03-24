@@ -1,4 +1,4 @@
-package com.ffyeahh.glidethumbnailplaceholdertest;
+package com.ffyeahh.pathlikeglide;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -1,4 +1,4 @@
-package com.ffyeahh.glidethumbnailplaceholdertest;
+package com.ffyeahh.pathlikeglide;
 
 import android.graphics.Bitmap;
 import android.os.Bundle;
